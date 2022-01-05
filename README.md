@@ -1,4 +1,4 @@
-# Sobre este projeto e sua API
+# Sobre este projeto
 
 Este projeto tem como finalidade possibilitar importação de arquivos CNAB 
 de forma a contabilizar as transações, e portanto sendo também possível 
